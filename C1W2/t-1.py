@@ -1,7 +1,6 @@
 import os
 import tempfile
 import argparse
-import csv
 parser = argparse.ArgumentParser()
 parser.add_argument("--key",type=str)
 parser.add_argument("--val",type =str)
